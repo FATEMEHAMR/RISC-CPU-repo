@@ -1,5 +1,4 @@
 # RISC CPU
-Here is the translation of your provided document into English:
 
 # Project Goal
 
