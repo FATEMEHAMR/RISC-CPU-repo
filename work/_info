@@ -1,0 +1,296 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1720683698
+VULQZ^>i9WMYCeeo45_XQ31
+04 13 4 work cpu_testbench fast 0
+=1-e4a8dfbcb5b6-668f8cb2-92-111c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+valu
+Z1 !s110 1720683684
+!i10b 1
+!s100 EHB3zloNPBBG775[2cHRU3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL[NU<DZmO_LA8[0L?mDY42
+Z3 dC:/Users/phate/OneDrive/Desktop/RISC
+Z4 w1720682279
+Z5 8C:\Users\phate\OneDrive\Desktop\RISC\RISC_CPU.v
+Z6 FC:\Users\phate\OneDrive\Desktop\RISC\RISC_CPU.v
+!i122 21
+L0 215 28
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1720683684.000000
+Z10 !s107 C:\Users\phate\OneDrive\Desktop\RISC\RISC_CPU.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\phate\OneDrive\Desktop\RISC\RISC_CPU.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+valu_test3
+R1
+!i10b 1
+!s100 ]90[_AOXn?B3jf1_PO]zD2
+R2
+Ijm<BZnOCgV5[I?LChbNlF3
+R3
+R4
+R5
+R6
+!i122 21
+L0 319 24
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vbus
+R1
+!i10b 1
+!s100 B;67Q6aa6GFneSHCZ0IU^1
+R2
+I3bK5B@OKE0gki<2ezFnOZ3
+R3
+R4
+R5
+R6
+!i122 21
+L0 156 19
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vcounter
+R1
+!i10b 1
+!s100 3UPAPE>7nLmPdcDGCJ=S71
+R2
+I5`iigf;eRb]A4=Z^Yf5eR3
+R3
+R4
+R5
+R6
+!i122 21
+L0 244 9
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vcounter_test3
+R1
+!i10b 1
+!s100 TlnInGTdYo`<OKCgPV<370
+R2
+IVXSnfAzGP9]BnFn2[3Pmz1
+R3
+R4
+R5
+R6
+!i122 21
+L0 275 17
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vcpu
+R1
+!i10b 1
+!s100 5IkmZA`C=EONeDRL9i]]e3
+R2
+If31DXeg5V;Di[Ge9@4F=<3
+R3
+R4
+R5
+R6
+!i122 21
+L0 1 152
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vcpu_test3
+R1
+!i10b 1
+!s100 KLFU727HJ6n>liaAm0bgM1
+R2
+IF=liLIJLO]ibBfM?PzTbZ3
+R3
+R4
+R5
+R6
+!i122 21
+L0 344 55
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vcpu_testbench
+R1
+!i10b 1
+!s100 ]I2mSQzMA;>^?HO5Ye9^C1
+R2
+I:nj66RU=b?bcEg`6M98[V1
+R3
+w1720682857
+8C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v
+FC:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v
+!i122 20
+L0 1 53
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v|
+!i113 0
+R12
+R0
+vdata_memory
+R1
+!i10b 1
+!s100 6=F=IB8nl3>KYRY0gUbS<2
+R2
+II_7Hz4O^^=8cW;eMkD6U30
+R3
+R4
+R5
+R6
+!i122 21
+L0 194 20
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vdecoder
+R1
+!i10b 1
+!s100 QhihN4WG9OQ0Am;m1A=3M0
+R2
+IV0JJae[ece]E<[jdGZm;W1
+R3
+R4
+R5
+R6
+!i122 21
+L0 254 20
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vdecoder_test3
+R1
+!i10b 1
+!s100 ZNP<lTL8mGNVXi`UVz6_n0
+R2
+IGi_@>T7Yig38cHk:mIB;I1
+R3
+R4
+R5
+R6
+!i122 21
+L0 293 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vinstruction_memory
+R1
+!i10b 1
+!s100 3S8BTn][lT6H@[nZjJWdJ3
+R2
+I??1Y7T[I[J?C_L36mXMV`0
+R3
+R4
+R5
+R6
+!i122 21
+L0 176 17
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0

@@ -1,0 +1,32 @@
+C:/Users/phate/OneDrive/Desktop/RISC/RISC_CPU.v {1 {vlog -work work -vopt -stats=none {C:\Users\phate\OneDrive\Desktop\RISC\RISC_CPU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module cpu
+-- Compiling module bus
+-- Compiling module instruction_memory
+-- Compiling module data_memory
+-- Compiling module alu
+-- Compiling module counter
+-- Compiling module decoder
+-- Compiling module counter_test3
+-- Compiling module decoder_test3
+-- Compiling module alu_test3
+-- Compiling module cpu_test3
+
+Top level modules:
+	counter_test3
+	decoder_test3
+	alu_test3
+	cpu_test3
+
+} {} {}} C:/Users/phate/OneDrive/Desktop/RISC/cpu_tb.v {2 {vlog -work work -vopt -stats=none {C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module cpu_testbench
+** Warning: C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v(42): (vlog-2697) MSB 135 of part-select into 'init_ins' is out of bounds.
+** Warning: C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v(42): (vlog-2697) LSB 128 of part-select into 'init_ins' is out of bounds.
+** Warning: C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v(43): (vlog-2697) MSB 143 of part-select into 'init_ins' is out of bounds.
+** Warning: C:\Users\phate\OneDrive\Desktop\RISC\cpu_tb.v(43): (vlog-2697) LSB 136 of part-select into 'init_ins' is out of bounds.
+
+Top level modules:
+	cpu_testbench
+
+} {} {}}
